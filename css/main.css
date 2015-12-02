@@ -36,12 +36,32 @@
 .segundo{
 	padding: 90px;
 }
+.tercero{
+	padding: 10%;
+}
 .cuadro {
 	padding: 20px;
+}
+.cuadro li{
+	display: inline-block;
 }
 .tercero{
 	padding: 10px;
 }
 .tercero img{
 	width: 100%;
+}
+.inline{
+	display: in
+}
+.cuarto{
+	padding:5%;
+}
+.quinto{
+background: #F2F2F2;
+}
+.list li{
+	display: inline-block;
+	background-color:white;
+	padding: 10px;
 }
