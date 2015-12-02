@@ -1,0 +1,47 @@
+*{
+	outline: 1px solid rgba(255,0,0,0.5);
+}
+.container{
+	width: 100%;
+}
+.primero{
+	background: url(../img/background/hero.jpg);
+	background-size: cover;
+}
+.primero h3 ,.primero a,.primero p,.primero h1,.primero button{
+	color: white;
+}
+.primero button{
+	opacity: 2;
+	background-color: black;
+	color: white;
+}
+.primero button:hover{
+	background-color: #1C1C1C;
+	color: white;
+}
+.opacity{
+	background-color: #000;
+	opacity: 0.8;
+}
+.medio{
+	padding:15%;
+}
+.ico li{
+	display: inline-block;
+}
+.ico h3 {
+	color:white; 
+}
+.segundo{
+	padding: 90px;
+}
+.cuadro {
+	padding: 20px;
+}
+.tercero{
+	padding: 10px;
+}
+.tercero img{
+	width: 100%;
+}
